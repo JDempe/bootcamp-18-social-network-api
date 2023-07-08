@@ -1,0 +1,6 @@
+/assets
+/controllers
+/node_modules
+/package-lock.json
+/routes
+/utils
