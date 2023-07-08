@@ -30,4 +30,4 @@ module.exports = {
       res.status(500).json(err);
     }
   },
-}1
+}
