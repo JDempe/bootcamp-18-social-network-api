@@ -1,6 +1,5 @@
-/assets
-/controllers
-/node_modules
-/package-lock.json
-/routes
-/utils
+node_modules
+package-lock.json
+.env
+.DS_Store
+/_homework-description
