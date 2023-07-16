@@ -93,9 +93,13 @@ Use Insomnia to test the API.  The following routes are available:
 
 ## Walkthrough Video
 
-Here is a walkthrough video showing the API routes being tested in Insomnia:
+Here are walkthrough videos showing the API routes being tested in Insomnia:
 
-[Walkthrough Video]()
+### User Routes
+https://github.com/JDempe/bootcamp-18-social-network-api/assets/123279032/cfbc67b7-e3e1-45eb-bee9-eab695046346
+
+### Thought Routes
+https://github.com/JDempe/bootcamp-18-social-network-api/assets/123279032/d8baa484-fbeb-4eed-8d94-b3e6c4c93ac0
 
 ## Credits
 ### Resources
